@@ -1,0 +1,10 @@
+Image: image_1.npy, True: Class 5, Predicted: Class 5
+Image: image_2.npy, True: Class 9, Predicted: Class 9
+Image: image_3.npy, True: Class 6, Predicted: Class 3
+Image: image_4.npy, True: Class 5, Predicted: Class 5
+Image: image_5.npy, True: Class 7, Predicted: Class 0
+Image: image_6.npy, True: Class 2, Predicted: Class 2
+Image: image_7.npy, True: Class 2, Predicted: Class 2
+Image: image_8.npy, True: Class 0, Predicted: Class 0
+Image: image_9.npy, True: Class 7, Predicted: Class 7
+Image: image_10.npy, True: Class 4, Predicted: Class 4
